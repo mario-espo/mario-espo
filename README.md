@@ -6,5 +6,4 @@
 - 🤔 I’m looking for help with ... Git
 - 💬 Ask me about ... anything genomics!
 - 📫 How to reach me: ... [Mario Esposito](mailto:mario_espo@outlook.com)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... x-men is what made me fall in love with the field of genetics
+- ⚡ Fun fact: ... I have a mutation in my OR26A gene making cilantro taste like soap
