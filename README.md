@@ -1,8 +1,4 @@
-### Hi there, here is what I am working on! 👋
-
-
-
-Here are some ideas to get you started:
+### Hi there!👋
 
 - 🔭 I’m currently working on ... my PhD 
 - 🌱 I’m currently learning ... AWS and Git
