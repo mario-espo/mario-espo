@@ -1,4 +1,4 @@
-### Hi there!👋
+### Hello Welcome to my GitHub Page!👋
 
 - 🔭 I’m currently working on ... determining my PhD disseration
 - 🌱 I’m currently learning ... AWS and Git
