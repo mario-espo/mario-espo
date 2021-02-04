@@ -6,6 +6,5 @@
 - 🤔 I’m looking for help with ... Git
 - 💬 Ask me about ... anything genomics!
 - 📫 How to reach me: ... [Mario Esposito](mailto:mario_espo@outlook.com)
-- 😄 Pronouns: ... he/him
+- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... x-men is what made me fall in love with the field of genetics
--->
