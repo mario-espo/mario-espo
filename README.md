@@ -1,6 +1,6 @@
 ### Hi there!👋
 
-- 🔭 I’m currently working on ... my PhD 
+- 🔭 I’m currently working on ... determining my PhD disseration
 - 🌱 I’m currently learning ... AWS and Git
 - 👯 I’m looking to collaborate on ... NGS surrounding cancer genomics
 - 🤔 I’m looking for help with ... Git
