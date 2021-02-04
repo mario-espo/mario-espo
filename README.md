@@ -1,5 +1,7 @@
 <img src="MarioEsposito-Banner.png" alt="banner" />
 
+---
+
 ### Hello Welcome to my GitHub Page!👋
 
 - 🔭 I’m currently working on ... determining my PhD disseration
