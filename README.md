@@ -1,6 +1,5 @@
 <img src="MarioEsposito-Banner.png" alt="banner" />
 
----
 
 ### Hi There, I'm Mario!👋
 
@@ -12,7 +11,6 @@
 - 📫 How to reach me: ... [Mario Esposito](mailto:mario_espo@outlook.com)
 - ⚡ Fun fact: ... I have a mutation in my OR26A gene making cilantro taste like soap
 
----
 
 ### Languages and Tools
 
