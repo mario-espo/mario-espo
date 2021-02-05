@@ -11,3 +11,8 @@
 - 💬 Ask me about ... anything genomics!
 - 📫 How to reach me: ... [Mario Esposito](mailto:mario_espo@outlook.com)
 - ⚡ Fun fact: ... I have a mutation in my OR26A gene making cilantro taste like soap
+
+---
+
+### What do I do?
+
