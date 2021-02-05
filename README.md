@@ -2,7 +2,7 @@
 
 ---
 
-### Hello Welcome to my GitHub Page!👋
+### Hi There, I'm Mario!👋
 
 - 🔭 I’m currently working on ... determining my PhD disseration
 - 🌱 I’m currently learning ... AWS and Git
