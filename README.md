@@ -12,6 +12,9 @@
 - ⚡ Fun fact: ... I have a mutation in my OR26A gene making cilantro taste like soap
 
 
+---
+
+
 ### Languages and Tools
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/r.svg" />   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" />   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/powershell.svg" />    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" />   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gnubash.svg" />   
