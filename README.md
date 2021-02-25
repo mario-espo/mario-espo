@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with ... Git
 - 💬 Ask me about ... anything genomics!
 - 📫 How to reach me: ... [Mario Esposito](mailto:mario_espo@outlook.com)
-- ⚡ Fun fact: ... I have a OR26A mutation making cilantro taste like soap
+- ⚡ Fun fact: ... I have an OR26A mutation making cilantro taste like soap
 
 
 ---
